@@ -609,3 +609,8 @@ p {
     border-radius: 12px;
     border: 1px solid rgba(255,255,255, 0.255);
 }
+#footer{
+  margin-top: 90px;
+  text-align: center;
+  height: 10vh;
+}
