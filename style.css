@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "trajan"; /* Elige un nombre para la fuente */
+  src: url("Trajan_Regular/Trajan\ Regular.ttf") format("truetype"); /* Ruta relativa al archivo TTF */
+}
+
+.titulo{
+  margin-top: 2px;
+  color: #ffffff;
+font-family: "trajan" ,sans-serif;
+}
 body{
     margin: 0px;
     background-color: black;
@@ -8,8 +18,8 @@ body{
 }
 
 .logo-hero{
-  margin-bottom: -90px;
-    max-width: 56vw;
+  margin-bottom: -170px;
+    max-width: 36vw;
 }
 .contenedor {
     height: 101vh;
@@ -411,7 +421,7 @@ body{
     }
     .logo-hero {
         max-width: 74vw;
-        margin-bottom: -98px;
+        margin-bottom: -215px;
     }
     
     
