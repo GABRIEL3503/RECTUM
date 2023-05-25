@@ -523,7 +523,7 @@ body{
 
 
 .container-card {
-  height: 74vh;
+  height: auto;
   width: 22vw;
  
     backdrop-filter: blur(16px) saturate(180%);
