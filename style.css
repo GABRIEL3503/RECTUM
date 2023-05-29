@@ -624,3 +624,29 @@ p {
   text-align: center;
   height: 10vh;
 }
+
+.wp{
+  font-size: 55px;
+  color: rgba(255, 255, 255, 0.356)
+}
+.wrapper a{
+      background-color: #9E262E;
+  text-decoration: none;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: "trajan" ,sans-serif;
+    text-transform: uppercase;
+  
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 4px;
+    transition: 0.5s;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.wrapper h2{
+  font-weight: 500;
+  font-size: 13px;
+}
